@@ -1,0 +1,11 @@
+axios:基于 Promise 的 HTTP 客户端，可用于浏览器和 Node.js 环境。它简化了前端应用程序与服务器进行 HTTP 通信的过程，提供了简洁的 API 和丰富的功能
+
+promise:Promise 是 JavaScript 中处理异步操作的一种机制。它代表了一个异步操作的最终结果。在异步操作完成之前，Promise 处于等待状态；操作完成后，Promise 会变成完成（fulfilled）或失败（rejected）状态，并返回相应的结果或错误信息。
+
+async 关键字：用于声明一个函数是异步的。
+
+await 关键字：只能在 async 函数内部使用。
+用于等待一个 Promise 对象 resolve（成功）或 reject（失败）。
+
+mock服务
+element plus
